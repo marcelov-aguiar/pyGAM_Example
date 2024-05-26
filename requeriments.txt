@@ -1,0 +1,4 @@
+pandas
+jupyter
+pygam
+matplotlib==3.7.5
